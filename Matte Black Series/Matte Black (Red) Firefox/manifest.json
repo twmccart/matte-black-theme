@@ -1,15 +1,15 @@
 {
     "name": "Matte Black (Red)",
-    "author": "Elijah Lopez",
+    "author": "Thomas McCarthy",
     "manifest_version": 2,
-    "version": "2021.1.16",
+    "version": "2021.07.16",
     "theme": {
         "colors": {
             "frame": "rgb(0, 0, 0)",
             "frame_inactive": "rgb(0, 0, 0)",
 
             "tab_text": "rgb(255, 255, 255)",
-            "tab_background_text": "rgb(170, 170, 170)",
+            "tab_background_text": "rgb(200, 200, 200)",
             "tab_background_separator": "rgba(255, 255, 255, 0.5)",
 
             "tab_line": "#d10028",
@@ -19,7 +19,7 @@
             "toolbar": "rgb(35, 35, 35)",
             "toolbar_top_separator": "rgb(35, 35, 35)",
             "toolbar_bottom_separator": "rgb(35, 35, 35)",
-            "toolbar_vertical_separator": "rgb(170, 170, 170)",
+            "toolbar_vertical_separator": "rgb(200, 200, 200)",
 
             "toolbar_field": "rgb(18, 18, 18)",
             "toolbar_field_text": "rgb(200, 200, 200)",
@@ -31,8 +31,8 @@
 
             "button_background_hover": "rgba(200, 200, 200, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
-            "icons": "rgb(169, 169, 169)",
-            "bookmark_text": "rgb(170, 170, 170)",
+            "icons": "rgb(199, 199, 199)",
+            "bookmark_text": "rgb(200, 200, 200)",
 
             "popup": "rgb(18, 18, 18)",
             "popup_text": "rgb(200, 200, 200)",
@@ -41,13 +41,13 @@
             "popup_highlight_text": "rgb(255, 255, 255)",
 
             "ntp_background": "rgb(18, 18, 18)",
-            "ntp_text": "rgb(170, 170, 170)",
+            "ntp_text": "rgb(200, 200, 200)",
 
             "sidebar": "rgb(35, 35, 35)",
-            "sidebar_text": "rgb(170, 170, 170)",
+            "sidebar_text": "rgb(200, 200, 200)",
             "sidebar_border": "rgb(18, 18, 18)",
             "sidebar_highlight": "#21252b",
-            "sidebar_highlight_text": "rgb(170, 170, 170)"
+            "sidebar_highlight_text": "rgb(200, 200, 200)"
         }
     }
 }
